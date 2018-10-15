@@ -89,7 +89,7 @@ header {
 }
 
 .logo {
-    background: url("/assets/images/rosie.jpg");
+    background: url("../images/rosie.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -372,7 +372,7 @@ button[type="submit"] {
 
 @media(min-width:600px) {
 .logo {
-    background: url("/assets/images/rosie500.jpg");
+    background: url("../images/rosie500.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -385,7 +385,7 @@ button[type="submit"] {
 
 @media(min-width:768px) {
 .logo {
-    background: url("/assets/images/rosie768.jpg");
+    background: url("../images/rosie768.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -398,7 +398,7 @@ button[type="submit"] {
 
 @media(min-width:992px) {
 .logo {
-    background: url("/assets/images/rosie.jpg");
+    background: url("../images/rosie.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
